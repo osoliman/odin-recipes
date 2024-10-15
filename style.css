@@ -1,10 +1,20 @@
-ul
- {
-    background: lightgrey;
-    color: black;
-    font-size: 30px;
-    display: inline-block;
-    font-family: Tahoma, "Times New Roman", sans-serif;
-    border-color: aqua;
+
+div{
+    padding: 10px;
+    box-sizing: content-box;
+    border: solid 10px lightpink;
+    margin: 10px;
+    text-align: center;
 }
 
+.roasted-potatoes{
+    background-color: bisque;
+}
+
+.sweet-potato-brownies{
+    background-color: aquamarine;
+}
+
+.pizza{
+    background-color: blanchedalmond;
+}
